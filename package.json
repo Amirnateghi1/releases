@@ -17,7 +17,7 @@
     "lodash": "^4.17.11",
     "make-promises-safe": "^1.1.0",
     "mocha": "^5.2.0",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "platform-utils": "^1.0.0",
     "prettier": "^2.0.2",
     "semver": "^5.4.1"
